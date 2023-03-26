@@ -1,0 +1,7 @@
+C:\Users\Mohammed.Faisal\Desktop\ConsoleApp1\ConsoleApp1.exe
+C:\Users\Mohammed.Faisal\Desktop\ConsoleApp1\ConsoleApp1.dll
+C:\Users\Mohammed.Faisal\Desktop\ConsoleApp1\ConsoleApp1.deps.json
+C:\Users\Mohammed.Faisal\Desktop\ConsoleApp1\ConsoleApp1.runtimeconfig.json
+C:\Users\Mohammed.Faisal\Desktop\ConsoleApp1\ConsoleApp1.pdb
+C:\Users\Mohammed.Faisal\Desktop\ConsoleApp1\Newtonsoft.Json.dll
+C:\Users\Mohammed.Faisal\Desktop\ConsoleApp1\YamlDotNet.dll
